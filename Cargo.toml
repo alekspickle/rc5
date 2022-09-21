@@ -1,0 +1,8 @@
+[package]
+name = "rc5"
+version = "0.1.0"
+authors = ["Oleks Pickle <aleks.work2222@gmail.com>"]
+edition = "2021"
+
+[dependencies]
+
