@@ -5,5 +5,6 @@ authors = ["Oleks Pickle <aleks.work2222@gmail.com>"]
 edition = "2021"
 
 [dependencies]
+anyhow = "1.0"
 clap = {version = "4.0.29", features = ["derive"]}
 
